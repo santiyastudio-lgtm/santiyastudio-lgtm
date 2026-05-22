@@ -1,29 +1,47 @@
 # Santiya Studio
 
-Building Windows-first desktop products and workflow tools with Rust, Tauri, React, and TypeScript.
+Local-first AI products for Android, Windows, and private automation workflows.
 
-## Focus
+## Main Project
 
-- Desktop apps for developer workflows and local-first automation
-- Productized tooling around Codex, MCP, backup, sync, and workspace UX
-- Reliable Windows packaging, installer validation, and release hardening
+### [SantiyaLocalAiHub / ai-androidHub](https://github.com/santiyastudio-lgtm/ai-androidHub)
 
-## Featured Projects
+Android-first local AI hub with on-device and private-local runtime paths:
+
+- local model workflow: install/import -> index -> select -> activate -> chat
+- GGUF local runtime and Google Local first path for compatible Gemma-class models
+- OpenClaw Local agent mode with sessions, tools, browser handoff, files, memory, automation, GPS/status checks, and offline city context
+- official `openclaw/openclaw` Gateway integration through local/private endpoints
+- Termux Local path for running the official OpenClaw Gateway directly on Android
+- model import diagnostics, conversion guidance, and staged external-file handling
+- offline city / travel tools with local map context
+
+Latest APK release:
+[ai-androidHub v1.0.1 - OpenClaw Gateway Local](https://github.com/santiyastudio-lgtm/ai-androidHub/releases/tag/v1.0.1)
+
+## Other Projects
 
 ### [Santiya Pixel Agents Desktop](https://github.com/santiyastudio-lgtm/santiya-pixel-agents-desktop)
 
-Turns live Codex threads into a shared pixel-office workspace with importable layouts, built-in editing, and custom asset-pack support.
+Windows desktop workspace for visual agent threads, layouts, editing, and local productivity flows.
 
 ### [Santiya Codex Backup](https://github.com/santiyastudio-lgtm/santiya-codex-backup)
 
-Windows-first backup and restore tooling for local Codex setups with managed snapshots, additive sync, scheduled runs, and secret-safe defaults.
+Windows-first backup and restore tooling for local Codex setups with managed snapshots, additive sync, scheduled runs, and safer defaults.
 
 ## Stack
 
-`Rust` `Tauri 2` `React` `TypeScript` `Vite` `JavaScript`
+`Android` `Kotlin` `Jetpack Compose` `GGUF` `Google Local` `OpenClaw` `Termux` `Hermes` `Windows` `Rust` `Tauri` `React` `TypeScript`
 
-## Working Style
+## Support
 
-- Shipping practical desktop tools instead of concept demos
-- Favoring local-first and safe-by-default workflows
-- Turning internal workflow needs into reusable products
+Support, logs, APK help, and Telegram Stars support:
+[@SantiyaSupportBot](https://t.me/SantiyaSupportBot)
+
+## Principles
+
+- local-first where possible
+- private LAN / localhost integrations before cloud fallback
+- practical working releases over concept demos
+- clear diagnostics instead of dead-end errors
+- no fake store links or unsupported stability claims
