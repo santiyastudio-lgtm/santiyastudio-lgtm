@@ -33,10 +33,13 @@ Windows-first backup and restore tooling for local Codex setups with managed sna
 
 `Android` `Kotlin` `Jetpack Compose` `GGUF` `Google Local` `OpenClaw` `Termux` `Hermes` `Windows` `Rust` `Tauri` `React` `TypeScript`
 
-## Support
+## Crypto Support
 
-Support, logs, APK help, and Telegram Stars support:
-[@SantiyaSupportBot](https://t.me/SantiyaSupportBot)
+Coins:
+
+- Solana: `97j3xnrjHtM5dDUZ8xAkAKqxY1Axro4gvsPCkqgZKQTj`
+- Ethereum: `0x061dE20Bb9b2fA9c1C3d8E38939092aCB76284fe`
+- Bitcoin: `bc1qfyzhnhajm8rslkhell9mg54na2tla90e6dkf3d`
 
 ## Principles
 
